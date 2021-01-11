@@ -8,9 +8,9 @@ The user enter zip code and his feeling after that pressing generate button. He 
 
 Folder Structure :
 Website
-  -app.js
-  -index.html
-  -style.css
+   -app.js
+   -index.html
+   -style.css
 server.js
 README.md
 package-lock.json
@@ -19,6 +19,7 @@ Tecnologies:
 HTML5,CSS,ES6 and Node JS
 
 Description :
+
 1- Setting up project environment that installed packages (express,cors,body-parser).
 2- At server
    -Add GET route that send data to browser.
@@ -30,6 +31,7 @@ Description :
    -Updating the UI dynamically that fetch GET data '/personInfo' from server.
 
 To run the Project:
+
 1- Install Node.js
 2- run command (node server.js) at terminal
 3- Write at browser localhost:3600
